@@ -45,6 +45,15 @@ a:link {
 a:visited {
  color: #f2f2f2;
 }
+a:hover {
+  background: #a6a6a6;
+  color: #f2f2f2;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #a6a6a6,
+              0 0 25px #a6a6a6,
+              0 0 50px #a6a6a6,
+              0 0 100px #a6a6a6;
+}
 
 .card-container {
   background-color: #4f4f4f;
